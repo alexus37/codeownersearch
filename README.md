@@ -4,7 +4,7 @@ Search files with ripgrep and codeowners.
 
 ## Features
 
-![demo](docs/demo.mov)
+![demo](docs/demo.gif)
 
 ## Requirements
 
